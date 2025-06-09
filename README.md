@@ -32,12 +32,11 @@ Cost optimization in residential or industrial settings
 Sustainability and ESG reporting
 Academic or corporate data analysis projects
 
-ScreenShots
-[Power BI Dashboard Overview]("https://github.com/NiharikaShakya113/EnergyConsumptionDashboard/blob/main/Overview.png")
-[Power BI Dashboard Water]("https://github.com/NiharikaShakya113/EnergyConsumptionDashboard/blob/main/Water.png")
-[Power BI Dashboard Gas]("https://github.com/NiharikaShakya113/EnergyConsumptionDashboard/blob/main/Gas.png")
-[Power BI Dashboard Electricity]("https://github.com/NiharikaShakya113/EnergyConsumptionDashboard/blob/main/Electricity.png")
-
+Screenshot
+![Electricity](https://github.com/user-attachments/assets/dcbd9a5d-e1b4-4695-98e8-26a091235a84)
+![Gas](https://github.com/user-attachments/assets/091b1b29-cf46-4fbb-a5f4-14c894b186c9)
+![Water](https://github.com/user-attachments/assets/53a611a9-9834-4369-8b26-6363db717e48)
+![Overview](https://github.com/user-attachments/assets/da5a835e-ef2b-4796-a312-ac8eaa3e49ba)
 
 
 📄 License
