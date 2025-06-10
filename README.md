@@ -5,6 +5,7 @@
 
 2.Supports decision-making by identifying inefficiencies and cost-saving opportunities.
 
+
  📊 Main Features:
 
  1.Time-Series Charts: Track energy trends over time (daily, monthly, yearly).
@@ -17,16 +18,21 @@
  
  5.Clean, Responsive Design: Optimized for both presentations and deep-dive analysis.
 
+
+
  📂 What’s Included:
+ 
 EnergyPowerBIDashboard.pbit – Power BI dashboard template.
 
 Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and modeling.
+
 
  🖥️ Requirements:
 
 * Power BI Desktop – [Download here](https://powerbi.microsoft.com/desktop/)
   
 * Windows OS – Recommended for full compatibility.
+
 
 🚀 How to Use:
 1. Clone or download the repository.
@@ -37,6 +43,7 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
    
 4. Use filters and visuals to explore the energy data.
 
+
  🎯 Use Cases:
 1.Energy monitoring in residential, commercial, and industrial environments.
 
@@ -45,6 +52,8 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 3.Sustainability and ESG reporting.
 
 4. Academic and corporate data analytics projects.
+
+
 
  🔮 Future Use Cases:
 
@@ -57,6 +66,7 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 4.Alerts & Automation**: Trigger notifications for unusual energy spikes.
 
 5.Multi-site Comparison**: Analyze energy usage across multiple facilities.
+
 
 
 💼 Interview Discussion Points:
@@ -74,6 +84,8 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 6.Scalability: How to adapt this template for larger systems or real-time data feeds.
 
 7.Security: Techniques for managing data access and role-level permissions.
+
+
 
 
 Interface Preview Description: 
