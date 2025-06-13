@@ -57,15 +57,15 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 
  🔮 Future Use Cases:
 
-1.IoT Integration**: Real-time data from smart meters and sensors.
+1.IoT Integration: Real-time data from smart meters and sensors.
 
-2.Predictive Analytics**: Forecast future energy use and costs using machine learning.
+2.Predictive Analytics: Forecast future energy use and costs using machine learning.
 
-3.Carbon Footprint Estimation**: Track emissions for sustainability goals.
+3.Carbon Footprint Estimation: Track emissions for sustainability goals.
 
-4.Alerts & Automation**: Trigger notifications for unusual energy spikes.
+4.Alerts & Automation: Trigger notifications for unusual energy spikes.
 
-5.Multi-site Comparison**: Analyze energy usage across multiple facilities.
+5.Multi-site Comparison: Analyze energy usage across multiple facilities.
 
 
 
@@ -81,14 +81,12 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 
 5.Business Impact: Discuss real-world scenarios where this dashboard could save costs.
 
-6.Scalability: How to adapt this template for larger systems or real-time data feeds.
-
-7.Security: Techniques for managing data access and role-level permissions.
 
 
 
 
 Interface Preview Description: 
+
 1.Visual representation of the Energy Consumption Dashboard
 
 2.Highlighting features such as real-time usage monitoring
