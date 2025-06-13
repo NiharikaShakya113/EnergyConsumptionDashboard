@@ -1,6 +1,7 @@
  ⚡ Energy Consumption Dashboard | Power BI
  
  🔍 What It Is:
+ 
 1. A professional Power BI dashboard for analyzing and monitoring energy usage.
 
 2.Supports decision-making by identifying inefficiencies and cost-saving opportunities.
@@ -35,6 +36,7 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 
 
 🚀 How to Use:
+
 1. Clone or download the repository.
    
 2. Open the `.pbit` file in Power BI Desktop.
@@ -45,13 +47,12 @@ Energy Consumptions Dataset.xlsx – Sample dataset for report visuals and model
 
 
  🎯 Use Cases:
+ 
 1.Energy monitoring in residential, commercial, and industrial environments.
 
 2. Electricity cost optimization and waste reduction.
-   
-3.Sustainability and ESG reporting.
 
-4. Academic and corporate data analytics projects.
+3. Academic and corporate data analytics projects.
 
 
 
